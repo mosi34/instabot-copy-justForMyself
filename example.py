@@ -4,8 +4,8 @@
 from instabot_py import InstaBot
 
 bot = InstaBot(
-    login="mosi34",  # Enter username (lowercase). Do not enter email!
-    password="mostafa137171",
+    login="YOUR-USER-NAME",  # Enter username (lowercase). Do not enter email!
+    password="YOUR-PASSWORD",
     like_per_day=1000,
     comments_per_day=0,
     tag_list=[
